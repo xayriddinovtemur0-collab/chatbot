@@ -1,6 +1,7 @@
-python-telegram-bot==20.7
+python-telegram-bot
 groq
 python-dotenv
 requests
 python-pptx
 python-docx
+yt-dlp
